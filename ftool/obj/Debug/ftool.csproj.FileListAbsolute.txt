@@ -1,0 +1,10 @@
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\bin\Debug\ftool.exe.config
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\bin\Debug\ftool.exe
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\bin\Debug\ftool.pdb
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.csproj.AssemblyReference.cache
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.UI.resources
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.Properties.Resources.resources
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.csproj.GenerateResource.cache
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.csproj.CoreCompileInputs.cache
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.exe
+C:\Users\luwa0\Documents\Repos\ftool\ftool\ftool\obj\Debug\ftool.pdb
